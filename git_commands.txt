@@ -3,3 +3,10 @@ git status
 git add filename
 git commit -m "added testing files"
 git restore filename
+git remote -v
+git add git_commands.txt
+git commit -m "added git commonds"
+git push origin master
+git reomte -v
+git clone
+git pull
