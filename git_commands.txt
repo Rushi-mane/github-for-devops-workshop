@@ -10,3 +10,8 @@ git push origin master
 git reomte -v
 git clone
 git pull
+git branch
+git add this_from_dev.txt
+git commit -m "added dev file"
+git switch master
+git switch dev
