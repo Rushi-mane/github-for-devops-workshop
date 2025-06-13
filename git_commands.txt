@@ -39,4 +39,5 @@ git log
 Head represents latest commit of repository
 git log --oneline
 git checkout branch
+merge dev to master how to do 
 
