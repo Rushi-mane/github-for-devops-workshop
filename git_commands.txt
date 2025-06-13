@@ -40,4 +40,15 @@ Head represents latest commit of repository
 git log --oneline
 git checkout branch
 merge dev to master how to do 
+local to git hub --> git push origin dev
+after that new branch made in git hub
+merge dev into master 
+1 click on pull request (after push the branch dev)
+2 click on new pull request 
+select base and compare branch
+click on create pull request
+see which file are chanegs 
+after that click on merge pull request
+then showing merged changes
+
 
