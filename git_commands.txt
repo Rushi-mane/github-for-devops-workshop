@@ -32,3 +32,10 @@ git push origin master
 repo fork 
 cd .\git-demo-new\  (local dir)
 git clone https://github.com/Rushi-mane/github-for-devops-workshop.git
+git branch
+git branch dev
+git switch dev (branch name)
+git log
+Head represents latest commit of repository
+git log --oneline
+
