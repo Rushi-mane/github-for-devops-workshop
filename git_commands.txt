@@ -50,5 +50,8 @@ click on create pull request
 see which file are chanegs 
 after that click on merge pull request
 then showing merged changes
+git fetch --> remote branches see in local
+git pull --> changes of brnach see in local 
+
 
 
