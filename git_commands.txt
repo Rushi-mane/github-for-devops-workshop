@@ -34,8 +34,9 @@ cd .\git-demo-new\  (local dir)
 git clone https://github.com/Rushi-mane/github-for-devops-workshop.git
 git branch
 git branch dev
-git switch dev (branch name)
+git switch dev (branch name)  git checkout dev  both are same commands 
 git log
 Head represents latest commit of repository
 git log --oneline
+git checkout branch
 
