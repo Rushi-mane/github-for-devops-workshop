@@ -1,17 +1,28 @@
+Git & GitHub Basics   (GitLab Bitbucket)
+Basic Commands of Git
+Pull Request Merging, Branching Statergies for DevOps
+Hook's (PRE-COMMIT HOOK'S)
+Repo setup end to end (GitHub Actions CI/CD)
+
+	Git Tool - Linus Torveld
+Git- Version control system
+maintain- code  CLI 
+manage version
+Download Git- https://git-scm.com/downloads              GUI
+
+GitHub- Is a platform fundamentals of version control system
+GitHub & GitLab & Bitbucket - All are source code management
+Installation of Git
+Sing in on github
+
+Basic Git Commands
 git init
 git status
 git add filename
 git commit -m "added testing files"
 git restore filename
-git remote -v
-git add git_commands.txt
-git commit -m "added git commonds"
-git push origin master
-git reomte -v
-git clone
-git pull
-git branch
-git add this_from_dev.txt
-git commit -m "added dev file"
-git switch master
-git switch dev
+git init
+git status
+git add filename
+git commit -m "added testing files"
+git restore filename
