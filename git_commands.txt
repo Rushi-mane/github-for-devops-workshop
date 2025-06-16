@@ -25,4 +25,37 @@ git init
 git status
 git add filename
 git commit -m "added testing files"
+<<<<<<< HEAD
 git restore filename
+=======
+git restore filename
+git remote set-url origin origin https://personal token @github.com/Rushi-mane/github-for-devops-workshop.git (push
+git remote -v
+git push origin master
+repo fork 
+cd .\git-demo-new\  (local dir)
+git clone https://github.com/Rushi-mane/github-for-devops-workshop.git
+git branch
+git branch branch name
+git switch  (branch name)  git checkout dev  both are same commands 
+git log
+Head represents latest commit of repository
+git log --oneline
+git checkout branch
+merge dev to master how to do 
+local to git hub --> git push origin dev
+after that new branch made in git hub
+merge dev into master 
+1 click on pull request (after push the branch dev)
+2 click on new pull request 
+select base and compare branch
+click on create pull request
+see which file are chanegs 
+after that click on merge pull request
+then showing merged changes
+git fetch --> remote branches see in local
+git pull --> changes of brnach see in local 
+
+
+
+>>>>>>> dd15417335f75a31295063a3d7c3497ba4bdd1d2
