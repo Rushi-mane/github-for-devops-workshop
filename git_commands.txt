@@ -55,7 +55,3 @@ after that click on merge pull request
 then showing merged changes
 git fetch --> remote branches see in local
 git pull --> changes of brnach see in local 
-
-
-
->>>>>>> dd15417335f75a31295063a3d7c3497ba4bdd1d2
